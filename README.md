@@ -29,7 +29,7 @@ Aplicação web interativa que simula uma rede profissional voltada ao futuro do
 
 
 # Links
-- **Deploy (Vercel)**: 
+- **Deploy (Vercel)**: https://skill-bridge-network-gs-rw64.vercel.app/
 - **Repositório (GitHub)**: https://github.com/Nicolas-Santana-Gara/SkillBridge-Network-GS-FINAL.git
 
 # Equipe
