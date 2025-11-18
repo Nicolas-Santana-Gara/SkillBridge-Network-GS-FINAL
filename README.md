@@ -8,3 +8,4 @@ Aplicação web interativa que simula uma rede profissional voltada ao futuro do
   - **Recomendar profissional** (contagem persistida no `localStorage`).
   - **Enviar mensagem** (formulário simples; mensagens salvas no `localStorage`).
 - **Busca e filtros** por **área**, **cidade** e **tecnologia**.
+- **Dark Mode** (persistência em `localStorage`).
