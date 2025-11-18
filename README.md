@@ -25,3 +25,38 @@ Aplicação web interativa que simula uma rede profissional voltada ao futuro do
    ```
 4. Acesse a URL impressa no terminal (ex.: `http://localhost:5173`).
 
+>  O arquivo JSON fica em `public/data/profissionais.json`. A aplicação o consome via `fetch('/data/profissionais.json')`.
+
+
+# Links
+- **Deploy (Vercel)**: 
+- **Repositório (GitHub)**: https://github.com/Nicolas-Santana-Gara/SkillBridge-Network-GS-FINAL.git
+
+# Equipe
+- _Gustavo Barroso – RM 565705, Nicolas Gará – RM 561461, Gustavo Garcia – RM 562078_
+
+
+# Estrutura
+```
+future-work-network/
+├─ public/
+│  ├─ images/            # avatares/ícones locais
+│  └─ data/profissionais.json
+├─ src/
+│  ├─ components/
+│  │  ├─ FilterBar.jsx
+│  │  ├─ ProfileCard.jsx
+│  │  ├─ ProfileModal.jsx
+│  │  └─ ThemeToggle.jsx
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ index.css
+├─ index.html
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.js
+└─ vite.config.js
+```
+
+## OBSERVAÇÃO
+Descrições dos profissionais feitas com o auxílio do CHAT GPT
