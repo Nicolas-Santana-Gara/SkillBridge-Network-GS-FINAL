@@ -6,4 +6,4 @@ Aplicação web interativa que simula uma rede profissional voltada ao futuro do
 - **Modal** com dados completos: pessoais, acadêmicos, experiências, hard/soft skills, hobbies, projetos, certificações e idiomas.
 - Ações no modal:
   - **Recomendar profissional** (contagem persistida no `localStorage`).
-  
+  - **Enviar mensagem** (formulário simples; mensagens salvas no `localStorage`).
