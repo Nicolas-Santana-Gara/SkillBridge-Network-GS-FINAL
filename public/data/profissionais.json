@@ -1,0 +1,5199 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Silva",
+    "foto": "/images/avatar1.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Recife/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "Kotlin",
+      "Docker",
+      "Pandas",
+      "Python"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Resiliência",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Tocar violão",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A0",
+        "cargo": "UX Researcher",
+        "inicio": "2021-03",
+        "fim": "2022-09",
+        "descricao": "Experiência com modelo, aplicação, integração."
+      },
+      {
+        "empresa": "Empresa B0",
+        "cargo": "UX Researcher",
+        "inicio": "2022-08",
+        "fim": "2023-08",
+        "descricao": "Experiência com modelo, automação, integração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 0",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 0",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": " Nicolas Gará",
+    "foto": "/images/avatar2.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Flask",
+      "AWS",
+      "Python",
+      "Swift",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Resiliência",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A1",
+        "cargo": "Product Designer",
+        "inicio": "2020-01",
+        "fim": "2021-08",
+        "descricao": "Experiência com integração, serviço, aplicação."
+      },
+      {
+        "empresa": "Empresa B1",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2021-01",
+        "fim": "2022-07",
+        "descricao": "Experiência com plataforma, análise, automação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 1",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 1",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Gustavo Barroso",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Tableau",
+      "Next.js",
+      "GCP",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A2",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-02",
+        "fim": "2022-07",
+        "descricao": "Experiência com análise, otimização, integração."
+      },
+      {
+        "empresa": "Empresa B2",
+        "cargo": "Analista de QA",
+        "inicio": "2022-04",
+        "fim": "2023-07",
+        "descricao": "Experiência com automação, dashboard, serviço."
+      },
+      {
+        "empresa": "Empresa C2",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-03",
+        "fim": "2024-02",
+        "descricao": "Experiência com sistema, plataforma, serviço."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 2",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 2",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Gustavo Garcia",
+    "foto": "/images/avatar4.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Gestão do tempo",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A3",
+        "cargo": "Product Designer",
+        "inicio": "2018-07",
+        "fim": "2019-08",
+        "descricao": "Experiência com integração, experimento, dashboard."
+      },
+      {
+        "empresa": "Empresa B3",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2019-03",
+        "fim": "2020-08",
+        "descricao": "Experiência com integração, análise, plataforma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 3",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 3",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Bruno Nogueira",
+    "foto": "/images/avatar5.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Go",
+      "Angular",
+      "Tailwind",
+      "Flask"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gestão do tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A4",
+        "cargo": "UX Researcher",
+        "inicio": "2018-07",
+        "fim": "2019-03",
+        "descricao": "Experiência com modelo, automação, plataforma."
+      },
+      {
+        "empresa": "Empresa B4",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-09",
+        "fim": "2020-03",
+        "descricao": "Experiência com integração, pipeline, dashboard."
+      },
+      {
+        "empresa": "Empresa C4",
+        "cargo": "Product Designer",
+        "inicio": "2020-02",
+        "fim": "2021-09",
+        "descricao": "Experiência com modelo, análise, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 4",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 4",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Educação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Fernando Dias",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Swift",
+      "Angular",
+      "CI/CD",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Tocar violão",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A5",
+        "cargo": "Product Designer",
+        "inicio": "2019-04",
+        "fim": "2020-05",
+        "descricao": "Experiência com modelo, sistema, experimento."
+      },
+      {
+        "empresa": "Empresa B5",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-05",
+        "fim": "2021-07",
+        "descricao": "Experiência com serviço, dashboard, plataforma."
+      },
+      {
+        "empresa": "Empresa C5",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-01",
+        "fim": "2022-06",
+        "descricao": "Experiência com sistema, plataforma, dashboard."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 5",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 5",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Ana Esteves",
+    "foto": "/images/avatar7.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Angular",
+      "Azure",
+      "Flask",
+      "GCP"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A6",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-09",
+        "fim": "2022-05",
+        "descricao": "Experiência com sistema, análise, automação."
+      },
+      {
+        "empresa": "Empresa B6",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-06",
+        "fim": "2023-04",
+        "descricao": "Experiência com aplicação, dashboard, automação."
+      },
+      {
+        "empresa": "Empresa C6",
+        "cargo": "UX Researcher",
+        "inicio": "2023-02",
+        "fim": "2024-05",
+        "descricao": "Experiência com pipeline, sistema, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 6",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 6",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Bruno Uchoa",
+    "foto": "/images/avatar8.svg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Vue",
+      "PyTorch",
+      "Azure",
+      "Python",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A7",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2019-07",
+        "fim": "2020-04",
+        "descricao": "Experiência com otimização, pipeline, aplicação."
+      },
+      {
+        "empresa": "Empresa B7",
+        "cargo": "UX Researcher",
+        "inicio": "2020-06",
+        "fim": "2021-05",
+        "descricao": "Experiência com dashboard, sistema, otimização."
+      },
+      {
+        "empresa": "Empresa C7",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-01",
+        "fim": "2022-01",
+        "descricao": "Experiência com aplicação, sistema, integração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 7",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 7",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Yara Jesus",
+    "foto": "/images/avatar9.svg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "PyTorch",
+      "TensorFlow",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Comunicação",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Xadrez",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A8",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-02",
+        "fim": "2022-01",
+        "descricao": "Experiência com serviço, otimização, modelo."
+      },
+      {
+        "empresa": "Empresa B8",
+        "cargo": "Analista de QA",
+        "inicio": "2022-01",
+        "fim": "2023-07",
+        "descricao": "Experiência com pipeline, otimização, sistema."
+      },
+      {
+        "empresa": "Empresa C8",
+        "cargo": "Product Designer",
+        "inicio": "2023-09",
+        "fim": "2024-03",
+        "descricao": "Experiência com otimização, dashboard, modelo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 8",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 8",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Diego Moraes",
+    "foto": "/images/avatar10.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Azure",
+      "GCP",
+      "Swift",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Gestão do tempo"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A9",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2019-09",
+        "fim": "2020-03",
+        "descricao": "Experiência com dashboard, serviço, automação."
+      },
+      {
+        "empresa": "Empresa B9",
+        "cargo": "Product Designer",
+        "inicio": "2020-07",
+        "fim": "2021-06",
+        "descricao": "Experiência com análise, experimento, aplicação."
+      },
+      {
+        "empresa": "Empresa C9",
+        "cargo": "Analista de QA",
+        "inicio": "2021-06",
+        "fim": "2022-05",
+        "descricao": "Experiência com automação, otimização, experimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 9",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 9",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Eduarda Queiroz",
+    "foto": "/images/avatar1.svg",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Python",
+      "CI/CD",
+      "GraphQL",
+      "Go",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gestão do tempo",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Xadrez",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A10",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-07",
+        "fim": "2023-06",
+        "descricao": "Experiência com automação, pipeline, plataforma."
+      },
+      {
+        "empresa": "Empresa B10",
+        "cargo": "UX Researcher",
+        "inicio": "2023-05",
+        "fim": "2024-01",
+        "descricao": "Experiência com aplicação, dashboard, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 10",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 10",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Luiz Yamada",
+    "foto": "/images/avatar2.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Go",
+      "PyTorch",
+      "NoSQL",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A11",
+        "cargo": "Product Designer",
+        "inicio": "2019-03",
+        "fim": "2020-03",
+        "descricao": "Experiência com integração, pipeline, modelo."
+      },
+      {
+        "empresa": "Empresa B11",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2020-05",
+        "fim": "2021-01",
+        "descricao": "Experiência com serviço, modelo, dashboard."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 11",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 11",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Bruno Ibrahim",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "TypeScript",
+      "Kotlin",
+      "Pandas",
+      "Swift"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão do tempo",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A12",
+        "cargo": "Analista de QA",
+        "inicio": "2021-01",
+        "fim": "2022-07",
+        "descricao": "Experiência com experimento, integração, aplicação."
+      },
+      {
+        "empresa": "Empresa B12",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-04",
+        "fim": "2023-03",
+        "descricao": "Experiência com aplicação, integração, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 12",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 12",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Valentina Gomes",
+    "foto": "/images/avatar4.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Swift",
+      "TensorFlow",
+      "Docker",
+      "NoSQL",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A13",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2018-01",
+        "fim": "2019-09",
+        "descricao": "Experiência com dashboard, otimização, sistema."
+      },
+      {
+        "empresa": "Empresa B13",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2019-06",
+        "fim": "2020-03",
+        "descricao": "Experiência com experimento, automação, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 13",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 13",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Carla Henrique",
+    "foto": "/images/avatar5.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "AWS",
+      "CI/CD",
+      "Flask",
+      "NoSQL",
+      "Go"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A14",
+        "cargo": "Cientista de Dados",
+        "inicio": "2018-07",
+        "fim": "2019-09",
+        "descricao": "Experiência com dashboard, análise, integração."
+      },
+      {
+        "empresa": "Empresa B14",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2019-09",
+        "fim": "2020-05",
+        "descricao": "Experiência com dashboard, modelo, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 14",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 14",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Paulo Teixeira",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Django",
+      "TypeScript",
+      "Swift",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A15",
+        "cargo": "UX Researcher",
+        "inicio": "2020-07",
+        "fim": "2021-09",
+        "descricao": "Experiência com plataforma, dashboard, automação."
+      },
+      {
+        "empresa": "Empresa B15",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-09",
+        "fim": "2022-08",
+        "descricao": "Experiência com aplicação, serviço, modelo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 15",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 15",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Henrique Henrique",
+    "foto": "/images/avatar7.svg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "PyTorch",
+      "GraphQL",
+      "CI/CD",
+      "Tailwind",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A16",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2022-03",
+        "fim": "2023-01",
+        "descricao": "Experiência com análise, pipeline, dashboard."
+      },
+      {
+        "empresa": "Empresa B16",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2023-06",
+        "fim": "2024-03",
+        "descricao": "Experiência com automação, integração, modelo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 16",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 16",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Gabriela Zago",
+    "foto": "/images/avatar8.svg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "SQL",
+      "Angular",
+      "Django",
+      "Go"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A17",
+        "cargo": "Product Designer",
+        "inicio": "2019-07",
+        "fim": "2020-03",
+        "descricao": "Experiência com aplicação, serviço, plataforma."
+      },
+      {
+        "empresa": "Empresa B17",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-06",
+        "fim": "2021-05",
+        "descricao": "Experiência com análise, integração, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 17",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 17",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Valentina Vieira",
+    "foto": "/images/avatar9.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Next.js",
+      "Azure",
+      "Flask",
+      "Go"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Colaboração",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A18",
+        "cargo": "Analista de QA",
+        "inicio": "2022-09",
+        "fim": "2023-06",
+        "descricao": "Experiência com integração, dashboard, sistema."
+      },
+      {
+        "empresa": "Empresa B18",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-04",
+        "fim": "2024-03",
+        "descricao": "Experiência com plataforma, experimento, automação."
+      },
+      {
+        "empresa": "Empresa C18",
+        "cargo": "DevOps Engineer",
+        "inicio": "2024-01",
+        "fim": "2025-06",
+        "descricao": "Experiência com serviço, dashboard, experimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 18",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 18",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Rafael Silva",
+    "foto": "/images/avatar10.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Docker",
+      "TypeScript",
+      "NoSQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A19",
+        "cargo": "Analista de QA",
+        "inicio": "2019-09",
+        "fim": "2020-02",
+        "descricao": "Experiência com otimização, pipeline, aplicação."
+      },
+      {
+        "empresa": "Empresa B19",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2020-08",
+        "fim": "2021-02",
+        "descricao": "Experiência com automação, experimento, dashboard."
+      },
+      {
+        "empresa": "Empresa C19",
+        "cargo": "Product Designer",
+        "inicio": "2021-03",
+        "fim": "2022-08",
+        "descricao": "Experiência com automação, serviço, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 19",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 19",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Paulo Silva",
+    "foto": "/images/avatar1.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "Figma",
+      "Docker",
+      "Kubernetes",
+      "Vue"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Colaboração",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A20",
+        "cargo": "Analista de QA",
+        "inicio": "2018-03",
+        "fim": "2019-07",
+        "descricao": "Experiência com experimento, integração, análise."
+      },
+      {
+        "empresa": "Empresa B20",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-05",
+        "fim": "2020-05",
+        "descricao": "Experiência com automação, otimização, plataforma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 20",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 20",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Educação"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Sofia Carvalho",
+    "foto": "/images/avatar2.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Tailwind",
+      "Figma",
+      "AWS",
+      "Swift"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A21",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2020-05",
+        "fim": "2021-07",
+        "descricao": "Experiência com automação, pipeline, sistema."
+      },
+      {
+        "empresa": "Empresa B21",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2021-04",
+        "fim": "2022-07",
+        "descricao": "Experiência com plataforma, experimento, análise."
+      },
+      {
+        "empresa": "Empresa C21",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-03",
+        "fim": "2023-02",
+        "descricao": "Experiência com experimento, automação, análise."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 21",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 21",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Eduarda Klein",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "GraphQL",
+      "Django",
+      "GCP",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A22",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2020-07",
+        "fim": "2021-04",
+        "descricao": "Experiência com otimização, sistema, pipeline."
+      },
+      {
+        "empresa": "Empresa B22",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2021-05",
+        "fim": "2022-03",
+        "descricao": "Experiência com sistema, plataforma, experimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 22",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 22",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Diego Barros",
+    "foto": "/images/avatar4.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Tailwind",
+      "TypeScript",
+      "Vue",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Comunicação",
+      "Gestão do tempo"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A23",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-09",
+        "fim": "2023-03",
+        "descricao": "Experiência com pipeline, experimento, sistema."
+      },
+      {
+        "empresa": "Empresa B23",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-02",
+        "fim": "2024-02",
+        "descricao": "Experiência com análise, plataforma, automação."
+      },
+      {
+        "empresa": "Empresa C23",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2024-06",
+        "fim": "2025-03",
+        "descricao": "Experiência com aplicação, modelo, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 23",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 23",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Sofia Ferraz",
+    "foto": "/images/avatar5.svg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Python",
+      "Go",
+      "TypeScript",
+      "Flask"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Gestão do tempo",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A24",
+        "cargo": "Analista de QA",
+        "inicio": "2021-02",
+        "fim": "2022-03",
+        "descricao": "Experiência com aplicação, análise, integração."
+      },
+      {
+        "empresa": "Empresa B24",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2022-05",
+        "fim": "2023-09",
+        "descricao": "Experiência com análise, aplicação, integração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 24",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 24",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "João Teixeira",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Node.js",
+      "React",
+      "Flask",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Fotografia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A25",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-08",
+        "fim": "2023-04",
+        "descricao": "Experiência com automação, modelo, sistema."
+      },
+      {
+        "empresa": "Empresa B25",
+        "cargo": "Product Designer",
+        "inicio": "2023-05",
+        "fim": "2024-07",
+        "descricao": "Experiência com dashboard, aplicação, plataforma."
+      },
+      {
+        "empresa": "Empresa C25",
+        "cargo": "Analista de QA",
+        "inicio": "2024-02",
+        "fim": "2025-08",
+        "descricao": "Experiência com sistema, modelo, análise."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 25",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 25",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Luiz Oliveira",
+    "foto": "/images/avatar7.svg",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kotlin",
+      "Angular",
+      "Python",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Tocar violão",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A26",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-01",
+        "fim": "2023-02",
+        "descricao": "Experiência com integração, automação, aplicação."
+      },
+      {
+        "empresa": "Empresa B26",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2023-08",
+        "fim": "2024-04",
+        "descricao": "Experiência com serviço, modelo, aplicação."
+      },
+      {
+        "empresa": "Empresa C26",
+        "cargo": "Product Designer",
+        "inicio": "2024-08",
+        "fim": "2025-03",
+        "descricao": "Experiência com modelo, plataforma, integração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 26",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 26",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Luiz Zago",
+    "foto": "/images/avatar8.svg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Go",
+      "Pandas",
+      "Kotlin",
+      "Docker",
+      "GCP"
+    ],
+    "softSkills": [
+      "Gestão do tempo",
+      "Pensamento crítico",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A27",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-08",
+        "fim": "2020-09",
+        "descricao": "Experiência com aplicação, serviço, sistema."
+      },
+      {
+        "empresa": "Empresa B27",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2020-06",
+        "fim": "2021-03",
+        "descricao": "Experiência com serviço, automação, plataforma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 27",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 27",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Paulo Almeida",
+    "foto": "/images/avatar9.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Django",
+      "SQL",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A28",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-03",
+        "fim": "2021-09",
+        "descricao": "Experiência com experimento, integração, pipeline."
+      },
+      {
+        "empresa": "Empresa B28",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2021-05",
+        "fim": "2022-03",
+        "descricao": "Experiência com aplicação, integração, sistema."
+      },
+      {
+        "empresa": "Empresa C28",
+        "cargo": "UX Researcher",
+        "inicio": "2022-09",
+        "fim": "2023-08",
+        "descricao": "Experiência com aplicação, sistema, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 28",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 28",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Diego Dias",
+    "foto": "/images/avatar10.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Flask",
+      "Figma",
+      "Django",
+      "GraphQL",
+      "Swift"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Xadrez",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A29",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2021-02",
+        "fim": "2022-01",
+        "descricao": "Experiência com plataforma, automação, experimento."
+      },
+      {
+        "empresa": "Empresa B29",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2022-04",
+        "fim": "2023-08",
+        "descricao": "Experiência com integração, aplicação, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 29",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 29",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Ana Uchoa",
+    "foto": "/images/avatar1.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "Go",
+      "Angular",
+      "GCP",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Ciclismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A30",
+        "cargo": "Analista de QA",
+        "inicio": "2021-08",
+        "fim": "2022-03",
+        "descricao": "Experiência com análise, integração, sistema."
+      },
+      {
+        "empresa": "Empresa B30",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-06",
+        "fim": "2023-09",
+        "descricao": "Experiência com modelo, sistema, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 30",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 30",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Educação"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Eduarda Esteves",
+    "foto": "/images/avatar2.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Recife/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Docker",
+      "TypeScript",
+      "NoSQL",
+      "React",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A31",
+        "cargo": "UX Researcher",
+        "inicio": "2018-05",
+        "fim": "2019-09",
+        "descricao": "Experiência com pipeline, automação, otimização."
+      },
+      {
+        "empresa": "Empresa B31",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-03",
+        "fim": "2020-04",
+        "descricao": "Experiência com pipeline, modelo, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 31",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 31",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Valentina Uchoa",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "Pandas",
+      "Kubernetes",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A32",
+        "cargo": "Cientista de Dados",
+        "inicio": "2018-07",
+        "fim": "2019-09",
+        "descricao": "Experiência com serviço, análise, aplicação."
+      },
+      {
+        "empresa": "Empresa B32",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2019-04",
+        "fim": "2020-07",
+        "descricao": "Experiência com aplicação, plataforma, experimento."
+      },
+      {
+        "empresa": "Empresa C32",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-08",
+        "fim": "2021-06",
+        "descricao": "Experiência com modelo, sistema, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 32",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 32",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Bruno Ferraz",
+    "foto": "/images/avatar4.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Vue",
+      "SQL",
+      "Tailwind",
+      "Next.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A33",
+        "cargo": "Product Designer",
+        "inicio": "2019-02",
+        "fim": "2020-02",
+        "descricao": "Experiência com otimização, plataforma, análise."
+      },
+      {
+        "empresa": "Empresa B33",
+        "cargo": "Analista de QA",
+        "inicio": "2020-03",
+        "fim": "2021-02",
+        "descricao": "Experiência com pipeline, integração, experimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 33",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 33",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Ursula Yamada",
+    "foto": "/images/avatar5.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Tableau",
+      "Kubernetes",
+      "Node.js",
+      "GraphQL",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Gestão do tempo"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A34",
+        "cargo": "Analista de QA",
+        "inicio": "2018-03",
+        "fim": "2019-04",
+        "descricao": "Experiência com automação, pipeline, otimização."
+      },
+      {
+        "empresa": "Empresa B34",
+        "cargo": "UX Researcher",
+        "inicio": "2019-01",
+        "fim": "2020-09",
+        "descricao": "Experiência com serviço, automação, análise."
+      },
+      {
+        "empresa": "Empresa C34",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2020-02",
+        "fim": "2021-09",
+        "descricao": "Experiência com serviço, modelo, otimização."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 34",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 34",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Zeca Esteves",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Go",
+      "CI/CD",
+      "Pandas",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A35",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2020-04",
+        "fim": "2021-07",
+        "descricao": "Experiência com pipeline, experimento, automação."
+      },
+      {
+        "empresa": "Empresa B35",
+        "cargo": "Analista de QA",
+        "inicio": "2021-05",
+        "fim": "2022-08",
+        "descricao": "Experiência com sistema, aplicação, plataforma."
+      },
+      {
+        "empresa": "Empresa C35",
+        "cargo": "UX Researcher",
+        "inicio": "2022-02",
+        "fim": "2023-05",
+        "descricao": "Experiência com plataforma, pipeline, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 35",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 35",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Isabela Pereira",
+    "foto": "/images/avatar7.svg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TensorFlow",
+      "Go",
+      "Swift",
+      "Python"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A36",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-05",
+        "fim": "2023-05",
+        "descricao": "Experiência com plataforma, aplicação, análise."
+      },
+      {
+        "empresa": "Empresa B36",
+        "cargo": "Cientista de Dados",
+        "inicio": "2023-07",
+        "fim": "2024-04",
+        "descricao": "Experiência com experimento, serviço, dashboard."
+      },
+      {
+        "empresa": "Empresa C36",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2024-02",
+        "fim": "2025-06",
+        "descricao": "Experiência com sistema, aplicação, automação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 36",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 36",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "João Gomes",
+    "foto": "/images/avatar8.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Node.js",
+      "Swift",
+      "Python",
+      "Flask"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A37",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-06",
+        "fim": "2022-08",
+        "descricao": "Experiência com automação, sistema, dashboard."
+      },
+      {
+        "empresa": "Empresa B37",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-07",
+        "fim": "2023-06",
+        "descricao": "Experiência com análise, dashboard, automação."
+      },
+      {
+        "empresa": "Empresa C37",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2023-09",
+        "fim": "2024-05",
+        "descricao": "Experiência com automação, aplicação, dashboard."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 37",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 37",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Diego Teixeira",
+    "foto": "/images/avatar9.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Angular",
+      "SQL",
+      "NoSQL",
+      "Figma",
+      "Flask"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Xadrez",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A38",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-06",
+        "fim": "2022-09",
+        "descricao": "Experiência com dashboard, plataforma, integração."
+      },
+      {
+        "empresa": "Empresa B38",
+        "cargo": "Analista de QA",
+        "inicio": "2022-07",
+        "fim": "2023-05",
+        "descricao": "Experiência com serviço, sistema, plataforma."
+      },
+      {
+        "empresa": "Empresa C38",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-07",
+        "fim": "2024-09",
+        "descricao": "Experiência com modelo, otimização, plataforma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 38",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 38",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Luiz Lopes",
+    "foto": "/images/avatar10.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Pandas",
+      "NoSQL",
+      "Tableau",
+      "SQL",
+      "Django"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A39",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-07",
+        "fim": "2023-01",
+        "descricao": "Experiência com aplicação, experimento, pipeline."
+      },
+      {
+        "empresa": "Empresa B39",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-06",
+        "fim": "2024-07",
+        "descricao": "Experiência com pipeline, análise, aplicação."
+      },
+      {
+        "empresa": "Empresa C39",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2024-05",
+        "fim": "2025-08",
+        "descricao": "Experiência com pipeline, integração, experimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 39",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 39",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Henrique Dias",
+    "foto": "/images/avatar1.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "CI/CD",
+      "Figma",
+      "Tableau",
+      "Pandas"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Fotografia",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A40",
+        "cargo": "Product Designer",
+        "inicio": "2021-02",
+        "fim": "2022-01",
+        "descricao": "Experiência com análise, plataforma, aplicação."
+      },
+      {
+        "empresa": "Empresa B40",
+        "cargo": "Analista de QA",
+        "inicio": "2022-09",
+        "fim": "2023-09",
+        "descricao": "Experiência com dashboard, automação, pipeline."
+      },
+      {
+        "empresa": "Empresa C40",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2023-03",
+        "fim": "2024-05",
+        "descricao": "Experiência com otimização, dashboard, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 40",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 40",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Educação"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Carla Esteves",
+    "foto": "/images/avatar2.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Vue",
+      "Flask",
+      "Next.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão do tempo",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Tocar violão",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A41",
+        "cargo": "DevOps Engineer",
+        "inicio": "2018-06",
+        "fim": "2019-06",
+        "descricao": "Experiência com modelo, sistema, aplicação."
+      },
+      {
+        "empresa": "Empresa B41",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2019-02",
+        "fim": "2020-07",
+        "descricao": "Experiência com serviço, pipeline, otimização."
+      },
+      {
+        "empresa": "Empresa C41",
+        "cargo": "Analista de QA",
+        "inicio": "2020-05",
+        "fim": "2021-08",
+        "descricao": "Experiência com sistema, serviço, modelo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 41",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 41",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Valentina Pereira",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Python",
+      "CI/CD",
+      "Django",
+      "Tailwind",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Gestão do tempo",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A42",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-07",
+        "fim": "2022-04",
+        "descricao": "Experiência com análise, integração, pipeline."
+      },
+      {
+        "empresa": "Empresa B42",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2022-07",
+        "fim": "2023-09",
+        "descricao": "Experiência com aplicação, sistema, pipeline."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 42",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 42",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Bruno Dias",
+    "foto": "/images/avatar4.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "GraphQL",
+      "TypeScript",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gestão do tempo",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A43",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-06",
+        "fim": "2022-02",
+        "descricao": "Experiência com sistema, integração, otimização."
+      },
+      {
+        "empresa": "Empresa B43",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-07",
+        "fim": "2023-03",
+        "descricao": "Experiência com análise, pipeline, modelo."
+      },
+      {
+        "empresa": "Empresa C43",
+        "cargo": "Analista de QA",
+        "inicio": "2023-07",
+        "fim": "2024-04",
+        "descricao": "Experiência com modelo, automação, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 43",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 43",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Carla Klein",
+    "foto": "/images/avatar5.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Kubernetes",
+      "Pandas",
+      "Azure",
+      "Go"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A44",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2018-08",
+        "fim": "2019-09",
+        "descricao": "Experiência com modelo, aplicação, plataforma."
+      },
+      {
+        "empresa": "Empresa B44",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-04",
+        "fim": "2020-03",
+        "descricao": "Experiência com automação, aplicação, pipeline."
+      },
+      {
+        "empresa": "Empresa C44",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-01",
+        "fim": "2021-01",
+        "descricao": "Experiência com modelo, automação, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 44",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 44",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Educação"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Fernando Klein",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Tailwind",
+      "NoSQL",
+      "Node.js",
+      "Kubernetes",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Colaboração",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A45",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-09",
+        "fim": "2023-04",
+        "descricao": "Experiência com integração, dashboard, sistema."
+      },
+      {
+        "empresa": "Empresa B45",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2023-02",
+        "fim": "2024-06",
+        "descricao": "Experiência com integração, dashboard, análise."
+      },
+      {
+        "empresa": "Empresa C45",
+        "cargo": "DevOps Engineer",
+        "inicio": "2024-03",
+        "fim": "2025-09",
+        "descricao": "Experiência com plataforma, aplicação, serviço."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 45",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 45",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Valentina Pereira",
+    "foto": "/images/avatar7.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Python",
+      "Angular",
+      "Swift",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Gestão do tempo",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A46",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2021-04",
+        "fim": "2022-04",
+        "descricao": "Experiência com sistema, automação, análise."
+      },
+      {
+        "empresa": "Empresa B46",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-02",
+        "fim": "2023-04",
+        "descricao": "Experiência com dashboard, automação, plataforma."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 46",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 46",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Fernando Nogueira",
+    "foto": "/images/avatar8.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "Kotlin",
+      "Swift",
+      "Docker",
+      "Go"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Xadrez"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A47",
+        "cargo": "Analista de QA",
+        "inicio": "2018-03",
+        "fim": "2019-06",
+        "descricao": "Experiência com modelo, otimização, dashboard."
+      },
+      {
+        "empresa": "Empresa B47",
+        "cargo": "Cientista de Dados",
+        "inicio": "2019-04",
+        "fim": "2020-02",
+        "descricao": "Experiência com serviço, plataforma, automação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 47",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 47",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Karina Henrique",
+    "foto": "/images/avatar9.svg",
+    "cargo": "UX Researcher",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "GraphQL",
+      "Go",
+      "Docker",
+      "Swift",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Gestão do tempo"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Cozinhar"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A48",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2020-04",
+        "fim": "2021-07",
+        "descricao": "Experiência com sistema, serviço, modelo."
+      },
+      {
+        "empresa": "Empresa B48",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2021-07",
+        "fim": "2022-07",
+        "descricao": "Experiência com automação, modelo, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 48",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 48",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Open Source",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Queila Gomes",
+    "foto": "/images/avatar10.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Flask",
+      "TensorFlow",
+      "Tableau",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Adaptabilidade",
+      "Resiliência"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A49",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2022-02",
+        "fim": "2023-08",
+        "descricao": "Experiência com integração, otimização, dashboard."
+      },
+      {
+        "empresa": "Empresa B49",
+        "cargo": "Analista de QA",
+        "inicio": "2023-05",
+        "fim": "2024-06",
+        "descricao": "Experiência com análise, experimento, dashboard."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 49",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 49",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Tiago Queiroz",
+    "foto": "/images/avatar1.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "Tableau",
+      "Tailwind",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Colaboração",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Leitura"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A50",
+        "cargo": "Analista de QA",
+        "inicio": "2018-09",
+        "fim": "2019-04",
+        "descricao": "Experiência com dashboard, pipeline, análise."
+      },
+      {
+        "empresa": "Empresa B50",
+        "cargo": "UX Researcher",
+        "inicio": "2019-07",
+        "fim": "2020-01",
+        "descricao": "Experiência com modelo, serviço, análise."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 50",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 50",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Olívia Ibrahim",
+    "foto": "/images/avatar2.svg",
+    "cargo": "PM (Product Manager)",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "PyTorch",
+      "TensorFlow",
+      "SQL",
+      "Flask"
+    ],
+    "softSkills": [
+      "Gestão do tempo",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Fotografia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A51",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2020-03",
+        "fim": "2021-06",
+        "descricao": "Experiência com análise, automação, otimização."
+      },
+      {
+        "empresa": "Empresa B51",
+        "cargo": "Analista de QA",
+        "inicio": "2021-07",
+        "fim": "2022-05",
+        "descricao": "Experiência com plataforma, análise, experimento."
+      },
+      {
+        "empresa": "Empresa C51",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2022-04",
+        "fim": "2023-02",
+        "descricao": "Experiência com modelo, serviço, integração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 51",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 51",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Marina Dias",
+    "foto": "/images/avatar3.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Go",
+      "Azure",
+      "Tableau",
+      "Tailwind"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Tocar violão",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A52",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-04",
+        "fim": "2022-04",
+        "descricao": "Experiência com pipeline, dashboard, integração."
+      },
+      {
+        "empresa": "Empresa B52",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2022-08",
+        "fim": "2023-07",
+        "descricao": "Experiência com análise, automação, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 52",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 52",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Cidades inteligentes"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Eduarda Yamada",
+    "foto": "/images/avatar4.svg",
+    "cargo": "Engenheiro(a) de Software",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Kubernetes",
+      "TensorFlow",
+      "TypeScript",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Jardinagem"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A53",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2019-08",
+        "fim": "2020-08",
+        "descricao": "Experiência com dashboard, pipeline, experimento."
+      },
+      {
+        "empresa": "Empresa B53",
+        "cargo": "UX Researcher",
+        "inicio": "2020-05",
+        "fim": "2021-05",
+        "descricao": "Experiência com análise, dashboard, aplicação."
+      },
+      {
+        "empresa": "Empresa C53",
+        "cargo": "Engenheiro(a) de Software",
+        "inicio": "2021-05",
+        "fim": "2022-05",
+        "descricao": "Experiência com otimização, dashboard, serviço."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 53",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 53",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Gabriela Ferraz",
+    "foto": "/images/avatar5.svg",
+    "cargo": "Desenvolvedor(a) Front-end",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Azure",
+      "GraphQL",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Ciclismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A54",
+        "cargo": "UX Researcher",
+        "inicio": "2020-06",
+        "fim": "2021-03",
+        "descricao": "Experiência com dashboard, sistema, modelo."
+      },
+      {
+        "empresa": "Empresa B54",
+        "cargo": "UX Researcher",
+        "inicio": "2021-08",
+        "fim": "2022-04",
+        "descricao": "Experiência com experimento, análise, otimização."
+      },
+      {
+        "empresa": "Empresa C54",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2022-02",
+        "fim": "2023-06",
+        "descricao": "Experiência com dashboard, automação, sistema."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 54",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 54",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Bruno Teixeira",
+    "foto": "/images/avatar6.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Kubernetes",
+      "Kotlin",
+      "GCP",
+      "GraphQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Fotografia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A55",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2021-02",
+        "fim": "2022-03",
+        "descricao": "Experiência com serviço, aplicação, otimização."
+      },
+      {
+        "empresa": "Empresa B55",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2022-07",
+        "fim": "2023-05",
+        "descricao": "Experiência com serviço, experimento, aplicação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 55",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 55",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Fintech"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Rafael Ibrahim",
+    "foto": "/images/avatar7.svg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "GCP",
+      "Tailwind",
+      "NoSQL",
+      "Go"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Gestão do tempo",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Corrida"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A56",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2022-04",
+        "fim": "2023-04",
+        "descricao": "Experiência com análise, integração, experimento."
+      },
+      {
+        "empresa": "Empresa B56",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2023-09",
+        "fim": "2024-01",
+        "descricao": "Experiência com sistema, experimento, integração."
+      },
+      {
+        "empresa": "Empresa C56",
+        "cargo": "DevOps Engineer",
+        "inicio": "2024-06",
+        "fim": "2025-07",
+        "descricao": "Experiência com dashboard, modelo, análise."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 56",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 56",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Open Source"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Rafael Gomes",
+    "foto": "/images/avatar8.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Flask",
+      "Next.js",
+      "PyTorch",
+      "Vue"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão do tempo",
+      "Colaboração"
+    ],
+    "hobbies": [
+      "Cozinhar",
+      "Fotografia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A57",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-08",
+        "fim": "2022-08",
+        "descricao": "Experiência com automação, plataforma, aplicação."
+      },
+      {
+        "empresa": "Empresa B57",
+        "cargo": "UX Researcher",
+        "inicio": "2022-04",
+        "fim": "2023-07",
+        "descricao": "Experiência com automação, integração, plataforma."
+      },
+      {
+        "empresa": "Empresa C57",
+        "cargo": "Product Designer",
+        "inicio": "2023-06",
+        "fim": "2024-06",
+        "descricao": "Experiência com modelo, serviço, dashboard."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 57",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 57",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde digital"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Gabriela Jesus",
+    "foto": "/images/avatar9.svg",
+    "cargo": "Engenheiro(a) de ML",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "Pandas",
+      "GraphQL",
+      "Azure"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Viagens"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A58",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-07",
+        "fim": "2022-02",
+        "descricao": "Experiência com integração, análise, modelo."
+      },
+      {
+        "empresa": "Empresa B58",
+        "cargo": "Desenvolvedor(a) Front-end",
+        "inicio": "2022-05",
+        "fim": "2023-06",
+        "descricao": "Experiência com experimento, sistema, automação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 58",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 58",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Fintech",
+      "Educação"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Carla Henrique",
+    "foto": "/images/avatar10.svg",
+    "cargo": "Product Designer",
+    "resumo": "Profissional focado em impacto e aprendizado contínuo.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Azure",
+      "Swift",
+      "Docker",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Jardinagem",
+      "Tocar violão"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A59",
+        "cargo": "PM (Product Manager)",
+        "inicio": "2022-06",
+        "fim": "2023-02",
+        "descricao": "Experiência com otimização, sistema, experimento."
+      },
+      {
+        "empresa": "Empresa B59",
+        "cargo": "Engenheiro(a) de ML",
+        "inicio": "2023-01",
+        "fim": "2024-09",
+        "descricao": "Experiência com modelo, pipeline, análise."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      },
+      {
+        "curso": "Pós-graduação em Transformação Digital",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma 59",
+        "link": "https://example.com",
+        "descricao": "Projeto acadêmico de inovação."
+      },
+      {
+        "titulo": "App 59",
+        "link": "https://example.com",
+        "descricao": "Aplicativo experimental em React."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Educação"
+    ]
+  }
+]
